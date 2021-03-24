@@ -1,0 +1,12 @@
+29/05/20
+
+
+0. 19-sshfs
+
+1. Descricao: Shell script de montagem de sshfs na maq. local.
+
+2. Execucao: vide symlinks/BD
+
+
+Assinatura:
+#we0_2005291947a_sshfs

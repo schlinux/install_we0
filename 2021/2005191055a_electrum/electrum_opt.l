@@ -1,0 +1,1 @@
+/mnt/sd6/opt/electrum/

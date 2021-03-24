@@ -1,0 +1,1 @@
+/mnt/sd6/home/schipani3/.Programas_iniciar/autoexec.sh

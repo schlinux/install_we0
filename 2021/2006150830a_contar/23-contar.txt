@@ -1,0 +1,8 @@
+26-06-20
+
+1. Prg: 23-contar
+2. Obj: Conta pastas e arquivos diretorio corrente e inferiores
+3. Install manual vide PrgFolder
+
+
+#we0_2006150830a_contar

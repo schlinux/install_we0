@@ -1,0 +1,8 @@
+30-07-20
+
+1. Prg: 24-sneaker_pool
+2. Obj: Prg de sincronizacao entre maquinas
+3. Install manual vide PrgFolder
+
+
+#we0_2007300538a_sneaker_pool

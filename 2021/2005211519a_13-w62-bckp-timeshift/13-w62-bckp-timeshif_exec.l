@@ -1,0 +1,1 @@
+/mnt/sd6/opt/13-w62-bckp-timeshift/

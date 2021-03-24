@@ -1,0 +1,1 @@
+/mnt/sd6/home/schipani3/Prg_meus/rede_inciar.sh

@@ -1,0 +1,1 @@
+/mnt/sd6/home/schipani3/log/13-w62-bckp-timeshift/

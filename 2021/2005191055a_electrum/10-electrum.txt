@@ -1,0 +1,10 @@
+19-05-20
+
+Electrum Bitcoin Wallet
+Executavel de install permanente
+No diretorio home encontra-se . electrum com carteiras read-only
+Para acesso as carteiras completas, usar os volumes criptografados e trocar o ~/.electrum
+
+
+
+#we0_2005191055a_electrum

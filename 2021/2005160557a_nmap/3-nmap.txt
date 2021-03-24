@@ -1,0 +1,7 @@
+16-05-20
+
+nmap
+sudo apt install nmap
+
+
+#we0_2005160557a_nmap

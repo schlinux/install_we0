@@ -1,0 +1,8 @@
+06-06-20
+
+1. Prg: 20-boot_repair
+2. Obj: Prg de reparacao de boot
+3. Install manual vide PrgFolder
+
+
+#we0_2006060717a-boot_repair

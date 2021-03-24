@@ -1,0 +1,10 @@
+21-05-20
+
+1. Prg: 13-w62-bckp-timeshift
+2. Obj: Shell script de backup Timeshift
+3. #Entrada na crontab:
+# Backup rsync do diretorio copia de sistema timeshift mensal dia 14 12:21
+# 21   12   14  *  *  /mnt/sd6/opt/13-w62-bckp-timeshift/13-w62-bckp-timeshift_v1.sh  2>  /home/schipani3/log/13-w62-bckp-timeshift/13-w62-bckp-timeshift_$$.log
+
+
+#we0_2005210953a_a4-bckp-rdiff

@@ -1,0 +1,9 @@
+16-05-20
+
+0. install_we0: diretorio de scripts de reinstalacao de Desktop Mauro
+
+1. Objetivo: facilitar a reconfiguracao e reinstalacao do Desktop Linux apos uma limpeza da raiz.
+
+
+
+#we0_install_we0

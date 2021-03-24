@@ -1,0 +1,1 @@
+/media/truecrypt1/dropbox_pago/Dropbox/Dropbox3_2gb/configs/boot_repair/

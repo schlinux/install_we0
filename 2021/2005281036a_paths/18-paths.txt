@@ -1,0 +1,15 @@
+28/05/20
+
+
+0. 18-paths
+
+1. Descricao: Shell script criador de paths de trabalho de usuario
+
+2. Instalacao basica:
+2.1. Instalacao eh executada no diretorio de execucao. Vide symlinks/BD
+
+3. Execucao: vide symlinks/BD
+
+
+Assinatura:
+#we0_2005281036a_paths

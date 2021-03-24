@@ -1,0 +1,9 @@
+19-08-20
+
+1. Prg: 26-detox
+2. Obj: Script de limpeza de espacos e caracteres estranhos em nomes de arquivos 
+3. Install manual vide source, links simbolicos: 
+detoxx -> /mnt/sd6/opt/schipani3/scripts/2020/26-detoxx/26-detoxx_v1.sh
+
+
+#we0_2008190833a_detoxx

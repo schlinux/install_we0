@@ -1,0 +1,6 @@
+#26-01-21
+# ignorar arquivos temporarios
+*.log
+*~
+DEADJOE
+*#

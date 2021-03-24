@@ -1,0 +1,8 @@
+21-05-20
+
+rede_iniciar.sh
+Iniciar rede sshfs - local
+
+
+#we0_2005210838a_rede_iniciar
+

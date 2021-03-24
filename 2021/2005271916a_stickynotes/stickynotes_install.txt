@@ -1,0 +1,25 @@
+27-05-20
+
+1. Install rapido
+sudo add-apt-repository ppa:umang/indicator-stickynotes -y && sudo apt-get update && sudo apt-get install indicator-stickynotes -y
+
+2. URL
+https://launchpad.net/~umang/+archive/ubuntu/indicator-stickynotes
+Indicator Stickynotes
+PPA description
+Official releases of Indicator Stickynotes (https://launchpad.net/indicator-stickynotes).
+
+To install Indicator Stickynotes, you will need to add this PPA to your system (instructions below) and install the `indicator-stickynotes` package. See the instructions below.
+
+METHOD 1 (Command-line):
+
+     sudo apt-add-repository ppa:umang/indicator-stickynotes
+     sudo apt-get update && sudo apt-get install indicator-stickynotes
+
+METHOD 2 (User interface):
+
+     Step 1: Open "Software & Updates." Go to Other Software -> Add. Now type `ppa:umang/indicator-stickynotes` (without the `quotes`). Add the source and close the window. You will be asked to reload sources. Click "Reload".
+
+     Step 2: Open the Ubuntu Software Center, search for Indicator Stickynotes, and install.
+
+#we0_2005271916a_stickynotes

@@ -1,0 +1,1 @@
+/mnt/sd6/opt/12-a4_backup-rdiff/

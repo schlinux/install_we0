@@ -1,0 +1,11 @@
+24/05/20
+
+
+AWS CLI v2
+Instalacao manual:
+curl "https://awscli.amazonaws.com/awscli-exe-linux-x86_64.zip" -o "awscliv2.zip"
+unzip awscliv2.zip
+sudo ./aws/install
+
+
+#we0_2005241150a_awscliv2

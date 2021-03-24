@@ -1,0 +1,7 @@
+21-05-20
+
+1. Prg: 12-a4_backup-rdiff
+2. Obj: RDIFF-BACKUP PERIODICO DIRETORIO GOTACAJA
+
+
+#we0_2005210953a_a4-bckp-rdiff

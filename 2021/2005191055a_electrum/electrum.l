@@ -1,0 +1,1 @@
+/mnt/sd6/opt/electrum/electrum-3.3.8-x86_64.AppImage

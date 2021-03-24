@@ -1,0 +1,7 @@
+16-05-20
+
+recoll
+sudo apt install recoll
+
+
+#we0_2005160602a_recoll

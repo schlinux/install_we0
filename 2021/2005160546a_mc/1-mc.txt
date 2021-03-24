@@ -1,0 +1,6 @@
+16-05-20
+
+Midnight Commander
+sudo apt install mc
+
+#we0_2005160546a_mc

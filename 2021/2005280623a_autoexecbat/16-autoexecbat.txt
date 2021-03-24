@@ -1,0 +1,12 @@
+28/05/20
+
+
+0. Autoexec.bat
+
+1. Instalar na inicializacao do home user
+
+2. Local:
+2.1. Paradigma: ~/.Programas_iniciar/autoexec.sh
+2.2. Absoluto: /mnt/sd6/home/schipani3/.Programas_iniciar/autoexec.sh
+
+#we0_2005280623a_autoexecbat

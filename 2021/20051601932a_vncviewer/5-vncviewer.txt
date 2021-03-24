@@ -1,0 +1,7 @@
+16-05-20
+
+VNC-Viewer-6.20.113-Linux-x64
+Executavel de install permanente
+
+
+#we0_20051601932a_vncviewer

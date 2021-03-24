@@ -1,0 +1,1 @@
+/mnt/sd6/home/schipani3/Área de Trabalho/rede_sshfs1/

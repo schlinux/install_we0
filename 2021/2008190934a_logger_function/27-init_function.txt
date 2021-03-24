@@ -1,0 +1,9 @@
+19-08-20
+
+1. Prg: 27-logger
+2. Obj: Funcoes de criacao de log de sistema
+3. Install manual vide source, links simbolicos: 
+27-logger -> /mnt/sd6/opt/schipani3/scripts/2020/27-logger/27-logger_v1.sh
+27_1-padrao_logger -> /mnt/sd6/opt/schipani3/scripts/2020/27-logger/27_1-padrao_logger_v1.sh (teste)
+
+#we0_2008190934a_logger_function

@@ -1,0 +1,1 @@
+/mnt/sd6/opt/home/schipani3/2020/12-a4_backup-rdiff/12-a4_backup-rdiff_v2.sh

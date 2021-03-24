@@ -1,0 +1,1 @@
+/mnt/sd6/opt/home/schipani3/2020/atbswp/

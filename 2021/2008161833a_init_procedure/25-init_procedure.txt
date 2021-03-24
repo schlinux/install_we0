@@ -1,0 +1,9 @@
+18-08-20
+
+1. Prg: 25-init
+2. Obj: Procedure de parametros de seguranca na execucao
+3. Install manual vide source, links simbolicos: 
+25-init -> /mnt/sd6/opt/schipani3/scripts/2020/25-init/25-init_v2.sh
+25_1-padrao_init -> /mnt/sd6/opt/schipani3/scripts/2020/25-init/25_1-padrao_init_v1.sh (teste)
+
+#we0_2008161833a_init_procedure

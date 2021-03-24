@@ -1,0 +1,1 @@
+/mnt/sd6/home/schipani3/log/12-a4-bckp-rdiff/

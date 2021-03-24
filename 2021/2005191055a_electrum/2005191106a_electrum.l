@@ -1,0 +1,1 @@
+/mnt/wsdg01_01/data/2005191106a_electrum
